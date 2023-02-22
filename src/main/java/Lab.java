@@ -15,6 +15,7 @@ public class Lab {
      * @return the length of arr.
      */
     public int getLengthOfArray(int[] arr){
+        //a
         return arr.length;
     }
 
